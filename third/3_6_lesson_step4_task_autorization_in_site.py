@@ -5,7 +5,7 @@ import pytest
 import time
 import math
 
-class TestMainPage():
+class TestMainPage:
 
 
     @pytest.mark.parametrize("links", ["236895", "236896", "236897", "236898", "236899", "236903", "236904", "236905"])
